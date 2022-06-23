@@ -16,8 +16,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -27,18 +25,12 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Hide/Show the answer to a question when the question is clicked
+- **Bonus**: Complete the challenge without using JavaScript
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Mobile Screenshot](./mobile-screenshot.png)
+![Desktop Screenshot](./desktop-screenshot.png)
 
 ### Links
 
@@ -99,9 +91,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Chris Mulvany](https://www.chrismulvany.com)
+- Frontend Mentor - [@ChrisMulvanyGH](https://www.frontendmentor.io/profile/ChrisMulvanyGH)
+- Twitter - [@ChrisMulvany](https://twitter.com/ChrisMulvany)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 

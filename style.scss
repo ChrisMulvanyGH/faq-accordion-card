@@ -1,0 +1,30 @@
+/* - VARIABLES */
+
+// Screen Sizes
+$mobile: 375px;
+$desktop: 1440px;
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+$regular: 400;
+$bold: 700;
+
+// Text Colours
+$dk-desat-blue: hsl(238, 29%, 16%);
+$vdk-grayish-blue: hsl(237, 12%, 33%);
+$dk-grayish-blue: hsl(240, 6%, 50%);
+$soft-red: hsl(14, 88%, 65%);
+
+// Background Gradient Colours
+$soft-violet: hsl(273, 75%, 66%);
+$soft-blue: hsl(240, 73%, 65%);
+
+// Divider Colour
+$light-grayish-blue: hsl(240, 5%, 91%);
+
+
+/* - TAGS - */
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 12px;
+}
