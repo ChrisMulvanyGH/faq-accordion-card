@@ -24,7 +24,45 @@ $light-grayish-blue: hsl(240, 5%, 91%);
 
 
 /* - TAGS - */
+*, ::before, ::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 12px;
+}
+
+main {
+    width: 100vw;
+    background-image: linear-gradient($soft-violet, $soft-blue);
+}
+
+ul {
+    list-style: none;
+}
+
+
+/* - CUSTOM STYLES - */
+.container {
+    width: 90%;
+    max-width: $mobile;
+    margin: 0 auto;
+
+    .header {
+
+    }
+
+}
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
 }
