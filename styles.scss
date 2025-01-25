@@ -1,0 +1,43 @@
+/* - Fonts - */
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap');
+
+/* - Variables - */
+$primary-font: 'Kumbh Sans', sans-serif;
+
+$fw-regular: 400;
+$fw-bold: 700;
+
+$fs-12: 0.75rem;
+
+/* -- Widths -- */
+$mobile: 375px;
+$desktop: 1440px;
+
+/* -- Text Colors -- */
+$desat-blue-text: hsl(238, 29%, 16%);
+$vdg-blue-text: hsl(237, 12%, 33%);
+$dg-blue-text: hsl(240, 6%, 50%);
+$soft-red-text: hsl(14, 88%, 65%);
+
+/* -- Background Colors -- */
+$soft-violet: hsl(273, 75%, 66%);
+$soft-blue: hsl(240, 73%, 65%);
+$divider: hsl(240, 5%, 91%);
+
+/* - Reset - */
+*, *::before, *::after { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+}
+
+/* - Classes - */
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+
+    a { 
+        color: hsl(228, 45%, 44%); 
+    }
+}
+    
